@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Hi there!
-
-I love coding.
-=======
 <h1>Hi there! <img src="https://github.com/alper92/alper92/blob/main/img/hand_wave.gif" width="50" height="50" alt="Waving hand"></h1>
 <p>
   <b>Welcome to my page!</b>
@@ -41,5 +36,4 @@ alert(currentStatus);
   </p>
 </details>
 
-<!-- Disclaimer: I wrote the README.md in HTML instead of markdown to make it usable -->
->>>>>>> bf18a85 (initial README.md)
+<!-- I wrote the README.md in HTML instead of markdown to make it more usable -->
