@@ -25,7 +25,7 @@ alert(currentStatus);
       <th>Front End Development Libraries</th>
     </tr>
     <tr>
-      <td><a href="https://www.freecodecamp.org/certification/alper92/responsive-web-design">See certification...</a></td>
+      <td><a href="https://www.freecodecamp.org/certification/alper92/responsive-web-design">Done</a></td>
       <td>I'm working on it...</td>
       <td>Not started yet...</td>
     </tr>
@@ -35,5 +35,3 @@ alert(currentStatus);
     <a href="https://github.com/alper92/"><img src="https://github-readme-stats.vercel.app/api?username=alper92" alt="my stats"></a>
   </p>
 </details>
-
-<!-- I wrote the README.md in HTML instead of markdown to make it more usable -->
