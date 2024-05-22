@@ -20,6 +20,6 @@
 
 <p>
   <details>
-      <a href="https://github.com/alper92/"><img src="https://github-readme-stats.vercel.app/api?username=alper92&theme=graywhite" alt="my stats"></a>
+      <a href="https://github.com/alperkuertuel/"><img src="https://github-readme-stats.vercel.app/api?username=alperkuertuel&theme=graywhite" alt="my stats"></a>
   </details>
 </p>
